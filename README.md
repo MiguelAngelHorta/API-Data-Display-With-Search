@@ -1,6 +1,6 @@
 # API-Data-Display-With-Search
 Fetch &amp; parse data from an API endpoint using python
-![image](https://github.com/MiguelAngelHorta/API-Data-Display-With-Search/assets/106134627/b1e76700-a059-4fac-a6cd-1f2592a0108d)
+![image](https://github.com/MiguelAngelHorta/API-Data-Display-With-Search/assets/106134627/aab0a6b6-ff7f-4466-a287-20309d7ad3e9)
 
 ## Functions
 - fetchItems(): Fetches items from an API endpoint, parses the response as JSON, and then calls displayItems() to render the items on the page.
